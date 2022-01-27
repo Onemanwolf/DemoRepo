@@ -3,7 +3,7 @@ Repo to demo Github
 
 **Change Bold text**
 
-```JSON
+```
 {
   "firstName": "John",
   "lastName": "Smith",
